@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: conv-system-energy
+metadata:
+  template: conv-system-energy
+pipeline:
+  provider: github
+hooks:
+  postprovision:
+    windows:
+      run: |
+        Write-Host "Web app URL: "
+        Write-Host "$env:WEB_APP_URL" -ForegroundColor Cyan
+      shell: pwsh
+      continueOnError: false
+      interactive: true
+    posix:
+      run: |
+        echo "Web app URL: "
+        echo $WEB_APP_URL
+      shell: sh
+      continueOnError: false
+      interactive: true

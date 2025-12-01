@@ -1,0 +1,50 @@
+{"query": "List all buildings on campus.\nThen tell me which one has the Sports Hall.", "ground_truth": "available"}
+{"query": "Show me all rooms in the Engineering Building.\nAfter that, which of them are lecture theatres?", "ground_truth": "available"}
+{"query": "What HVAC zones are available on campus?\nWhich ones belong to the Sports Building?", "ground_truth": "available"}
+{"query": "Tell me my user role.\nAlso, confirm my access level.", "ground_truth": "available"}
+{"query": "List all HVAC zones in the Engineering Building.\nWhich rooms belong to the Lecture Wing?", "ground_truth": "available"}
+{"query": "Can you show me the available rooms?\nThen, highlight which are in the Sports Building.", "ground_truth": "available"}
+{"query": "Give me my energy feedback history.\nAlso, show me the most recent feedback.", "ground_truth": "available"}
+{"query": "Which rooms are in the Office Cluster zone?\nAnd are there any labs there?", "ground_truth": "available"}
+{"query": "List all rooms in the Sports Building.\nWhich HVAC zone covers them?", "ground_truth": "available"}
+{"query": "Tell me what buildings exist.\nDo any of them include meeting rooms?", "ground_truth": "available"}
+{"query": "Show me the HVAC zones.\nWhich of those are linked to the Engineering Building?", "ground_truth": "available"}
+{"query": "What rooms are located in the Lecture Wing?\nDo any of them have 'Theatre' in their name?", "ground_truth": "available"}
+{"query": "Retrieve my energy feedbacks.\nHow many total feedback entries do I have?", "ground_truth": "available"}
+{"query": "What’s my role in the system?\nDo I also have admin access?", "ground_truth": "available"}
+{"query": "List all buildings first.\nThen show the rooms in the Engineering Building only.", "ground_truth": "available"}
+{"query": "Which HVAC zones exist?\nCan you group them by building?", "ground_truth": "available"}
+{"query": "Show me the rooms in the Office Cluster zone.\nAre there any study areas there?", "ground_truth": "available"}
+{"query": "Give me my past energy feedbacks.\nSort them by date and show the latest one.", "ground_truth": "available"}
+{"query": "Tell me what access level I have.\nDoes it allow me to view HVAC data?", "ground_truth": "available"}
+{"query": "List all rooms in Engineering.\nWhich ones are seminar or meeting spaces?", "ground_truth": "available"}
+{"query": "Show me the buildings.\nDo any of them include a sports hall?", "ground_truth": "available"}
+{"query": "List the HVAC zones of the Sports Building.\nWhat rooms are inside Athletic Complex?", "ground_truth": "available"}
+{"query": "Tell me all rooms in the Lecture Wing.\nWhich are lecture theatres?", "ground_truth": "available"}
+{"query": "Give me my feedback entries.\nWas my last feedback about energy saving?", "ground_truth": "available"}
+{"query": "What buildings exist?\nWhich one contains a Computing Lab?", "ground_truth": "available"}
+{"query": "List available HVAC zones.\nWhich one contains office spaces?", "ground_truth": "available"}
+{"query": "What is my system role?\nDoes it include editing permissions?", "ground_truth": "available"}
+{"query": "Retrieve my energy feedback history.\nTell me the earliest feedback too.", "ground_truth": "available"}
+{"query": "List all Engineering Building rooms.\nWhich belong to Office Cluster?", "ground_truth": "available"}
+{"query": "What HVAC zones are in the Sports Building?\nWhich zone covers the Multi-Purpose Sports Hall?", "ground_truth": "available"}
+{"query": "Tell me all available buildings.\nWhich ones contain lecture theatres?", "ground_truth": "available"}
+{"query": "List HVAC zones in Engineering.\nDoes Seminar Room 1 belong to any of them?", "ground_truth": "available"}
+{"query": "Show me my access level.\nDoes it let me view other users' feedback?", "ground_truth": "available"}
+{"query": "Give me my feedback records.\nWhich one had the highest energy-saving score?", "ground_truth": "available"}
+{"query": "List rooms in the Sports Building.\nAre any of them lecture theatres?", "ground_truth": "available"}
+{"query": "Show me all HVAC zones.\nWhich zone is linked to lecture theatres?", "ground_truth": "available"}
+{"query": "Tell me what buildings exist.\nDo any of them have study spaces?", "ground_truth": "available"}
+{"query": "Which rooms are inside the Office Cluster?\nDo they include Meeting Room 1?", "ground_truth": "available"}
+{"query": "List HVAC zones across campus.\nWhich zones are in the Engineering Building?", "ground_truth": "available"}
+{"query": "Tell me my user role.\nCan you also give my permissions list?", "ground_truth": "available"}
+{"query": "List all rooms in Engineering.\nThen show me which are in Lecture Wing.", "ground_truth": "available"}
+{"query": "What buildings exist?\nWhich HVAC zones belong to each?", "ground_truth": "available"}
+{"query": "Give me my feedbacks.\nHow many did I submit this semester?", "ground_truth": "available"}
+{"query": "Tell me my access level.\nDoes it allow HVAC zone modification?", "ground_truth": "available"}
+{"query": "Show all HVAC zones.\nWhich one manages the Sports Hall?", "ground_truth": "available"}
+{"query": "List rooms in the Engineering Building.\nWhich are linked to Office Cluster HVAC zone?", "ground_truth": "available"}
+{"query": "Retrieve all rooms in Lecture Wing.\nIs Computing Lab included there?", "ground_truth": "available"}
+{"query": "What buildings are available?\nWhich rooms are inside the Sports Building?", "ground_truth": "available"}
+{"query": "List HVAC zones.\nWhich one covers lecture theatres?", "ground_truth": "available"}
+{"query": "Show me my previous energy feedbacks.\nHighlight the most positive one.", "ground_truth": "available"}

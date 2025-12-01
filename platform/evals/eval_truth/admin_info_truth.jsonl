@@ -1,0 +1,50 @@
+{"query": "List all registered users in the system.", "ground_truth": "info"}
+{"query": "Show me the roles and permissions of each user.", "ground_truth": "info"}
+{"query": "Give me the access levels of all users.", "ground_truth": "info"}
+{"query": "Which buildings are registered in the system?", "ground_truth": "info"}
+{"query": "What HVAC zones exist in the Engineering Building?", "ground_truth": "info"}
+{"query": "List all rooms available on campus.", "ground_truth": "info"}
+{"query": "Show me the rooms under the Athletic Complex zone.", "ground_truth": "info"}
+{"query": "Which rooms are located in the Sports Building?", "ground_truth": "info"}
+{"query": "List all lecture theatres in the Engineering Building.", "ground_truth": "info"}
+{"query": "What are the available study spaces on campus?", "ground_truth": "info"}
+{"query": "Give me details of the Lecture Wing HVAC zone.", "ground_truth": "info"}
+{"query": "Show all rooms linked to Office Cluster zone.", "ground_truth": "info"}
+{"query": "What zones belong to the Sports Building?", "ground_truth": "info"}
+{"query": "List the seminar rooms on campus.", "ground_truth": "info"}
+{"query": "What rooms are in the Engineering Building?", "ground_truth": "info"}
+{"query": "Which HVAC zones exist in the Sports Building?", "ground_truth": "info"}
+{"query": "Provide the infrastructure hierarchy for the Engineering Building.", "ground_truth": "info"}
+{"query": "Which building has Meeting Room 1?", "ground_truth": "info"}
+{"query": "What HVAC zones are linked to lecture theatres?", "ground_truth": "info"}
+{"query": "Show me all HVAC zones across campus.", "ground_truth": "info"}
+{"query": "What is the current occupancy of Lecture Theatre 1?", "ground_truth": "logs"}
+{"query": "What is the CO2 level in Computing Lab?", "ground_truth": "logs"}
+{"query": "What is the temperature in Seminar Room 1?", "ground_truth": "logs"}
+{"query": "Is Meeting Room 1 currently occupied?", "ground_truth": "logs"}
+{"query": "Give me the occupancy status of Study Corner.", "ground_truth": "logs"}
+{"query": "What was the occupancy in Lecture Theatre 2 yesterday at 3pm?", "ground_truth": "logs"}
+{"query": "What are the occupancy levels across the Engineering Building?", "ground_truth": "logs"}
+{"query": "Which rooms in the Office Cluster are currently in use?", "ground_truth": "logs"}
+{"query": "What is the current CO2 concentration in Multi-Purpose Sports Hall?", "ground_truth": "logs"}
+{"query": "Show me the temperature readings of Lecture Theatre 1.", "ground_truth": "logs"}
+{"query": "What is the total energy consumption of Lecture Wing zone?", "ground_truth": "logs"}
+{"query": "Give me the cost breakdown of energy usage in Office Cluster zone.", "ground_truth": "logs"}
+{"query": "Show the energy usage trend for the Athletic Complex zone.", "ground_truth": "logs"}
+{"query": "Which HVAC zone had the highest energy cost this month?", "ground_truth": "logs"}
+{"query": "What is the energy consumption in the Sports Building?", "ground_truth": "logs"}
+{"query": "Show me the energy usage in the Engineering Building.", "ground_truth": "logs"}
+{"query": "What is the real-time energy cost of Lecture Wing?", "ground_truth": "logs"}
+{"query": "Give me the HVAC energy breakdown for the Office Cluster.", "ground_truth": "logs"}
+{"query": "Which zones consumed the most energy today?", "ground_truth": "logs"}
+{"query": "Show the daily energy cost of Athletic Complex.", "ground_truth": "logs"}
+{"query": "What is the occupancy rate of Lecture Theatre 1 right now?", "ground_truth": "logs"}
+{"query": "How many people are currently in Computing Lab?", "ground_truth": "logs"}
+{"query": "What was the CO2 trend in Seminar Room 1 this morning?", "ground_truth": "logs"}
+{"query": "Show me the temperature levels in Meeting Room 1 today.", "ground_truth": "logs"}
+{"query": "What is the air quality in Study Corner?", "ground_truth": "logs"}
+{"query": "Which rooms in Engineering have the highest CO2?", "ground_truth": "logs"}
+{"query": "Show the occupancy history of Multi-Purpose Sports Hall.", "ground_truth": "logs"}
+{"query": "What’s the average temperature in Office Cluster rooms?", "ground_truth": "logs"}
+{"query": "Give me the total energy cost for Engineering Building zones.", "ground_truth": "logs"}
+{"query": "Which HVAC zone has the lowest energy usage today?", "ground_truth": "logs"}

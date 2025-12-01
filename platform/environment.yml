@@ -1,0 +1,12 @@
+name: min-workflow
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pytest
+  - flake8
+  - ruff
+  - pip:
+      - -r requirements.txt

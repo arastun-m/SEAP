@@ -1,0 +1,81 @@
+import time
+
+from azure.ai.evaluation import evaluate, F1ScoreEvaluator
+
+from eval_config import (
+    GROUND_TRUTH_PATHS, DATASET_PATHS, RESULT_PATHS,
+    CLUClient
+)
+from eval_utils import ExactMatchEvaluator, EvalDataHandling
+
+
+class CLUEval:
+    """ CLU Evaluation Class 
+    1. Generates an evaluation dataset using ground truth and CLU client.
+    2. Runs CLU evaluation on the evaluation data and stores results.
+    """
+
+    def __init__(self, clu_client : CLUClient):
+        self.clu_client = clu_client
+        self.eval_data_handler = EvalDataHandling()
+        self.ground_truth_path = GROUND_TRUTH_PATHS["clu"]
+        self.dataset_path = DATASET_PATHS["clu"]
+        self.results_path = RESULT_PATHS["clu"]
+    
+    def generate_dataset(self) -> None:
+        """ Generates evaluation dataset using ground truth and CLU client. 
+        Also adds response level metric results: latency and answer length.
+        """
+        ground_truth_data = self.eval_data_handler.get_eval_dataset(self.ground_truth_path)
+        
+        eval_data = []
+
+        for line in ground_truth_data:
+            start_time = time.time()
+            clu_result = self.clu_client.get_clu_result(line["query"])
+            top_intent = self.clu_client.get_top_intend(clu_result)
+            end_time = time.time()
+            eval_data.append({
+                "query": line["query"],
+                "context": "", # no context from CLU
+                "response": top_intent,
+                "ground_truth": line["ground_truth"],
+                "answer_length": len(top_intent),
+                "latency": end_time - start_time
+            })
+        self.eval_data_handler.write_eval_dataset(eval_data, self.dataset_path)
+        print(f"Generated benchmark data with {len(eval_data)} entries, saved to {self.dataset_path}")
+
+    def evaluate(self) -> None:
+        """ Run CLU evaluation on the benchmark data and store results. """
+        benchmark_data = self.eval_data_handler.get_eval_dataset(self.dataset_path)
+        if not benchmark_data:
+            raise ValueError("Benchmark data is empty. Please generate benchmark data first.")
+
+        # Evaluate using F1 Score
+        evaluate(
+            data=self.dataset_path,
+            evaluators={
+                "f1_score": F1ScoreEvaluator(threshold=1.0),  # custom evaluator for exact match
+            },
+            # column mapping
+            evaluator_config={ 
+                "default": {
+                    "column_mapping": {
+                        "query": "${data.query}",
+                        "ground_truth": "${data.ground_truth}",
+                        "response": "${data.response}",
+                    } 
+                }
+            },
+            output_path=self.results_path,
+        )
+        print(f"Evaluation completed. Results saved to {self.results_path}")
+
+
+# CLU Eval Pipeline
+if __name__ == "__main__":
+    clu_client = CLUClient()
+    clu_eval = CLUEval(clu_client)
+    clu_eval.generate_dataset()
+    clu_eval.evaluate()

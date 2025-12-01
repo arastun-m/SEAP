@@ -1,0 +1,123 @@
+[
+  {
+    "id": "user_001",
+    "first_name": "Alice",
+    "last_name": "Nguyen",
+    "email": "alice.nguyen@university.edu",
+    "password": "hashed_pw_001",
+    "department": "Department of Mathematics",
+    "calendar": [],
+    "assigned_rooms": ["LT1", "FW26"],
+    "role": "Student"
+  },
+  {
+    "id": "user_002",
+    "first_name": "Ben",
+    "last_name": "Martins",
+    "email": "ben.martins@university.edu",
+    "password": "hashed_pw_002",
+    "department": "Department of Physics",
+    "calendar": [],
+    "assigned_rooms": ["MR01"],
+    "role": "Student"
+  },
+  {
+    "id": "user_003",
+    "first_name": "Chloe",
+    "last_name": "Patel",
+    "email": "chloe.patel@university.edu",
+    "password": "hashed_pw_003",
+    "department": "Department of Mechanical Engineering",
+    "calendar": [],
+    "assigned_rooms": ["LT2", "SC01"],
+    "role": "Student"
+  },
+  {
+    "id": "user_004",
+    "first_name": "David",
+    "last_name": "Kim",
+    "email": "david.kim@university.edu",
+    "password": "hashed_pw_004",
+    "department": "Department of Chemical Engineering",
+    "calendar": [],
+    "assigned_rooms": ["SR01"],
+    "role": "Student"
+  },
+  {
+    "id": "user_005",
+    "first_name": "Ella",
+    "last_name": "Gomez",
+    "email": "ella.gomez@university.edu",
+    "password": "hashed_pw_005",
+    "department": "Department of Mathematics",
+    "calendar": [],
+    "assigned_rooms": ["FW26"],
+    "role": "Student"
+  },
+  {
+    "id": "user_006",
+    "first_name": "Frank",
+    "last_name": "Li",
+    "email": "frank.li@university.edu",
+    "password": "hashed_pw_006",
+    "department": "Department of Chemical Engineering",
+    "calendar": [],
+    "assigned_rooms": ["LT1"],
+    "role": "Staff"
+  },
+  {
+    "id": "user_007",
+    "first_name": "Grace",
+    "last_name": "Taylor",
+    "email": "grace.taylor@university.edu",
+    "password": "hashed_pw_007",
+    "department": "Department of Mechanical Engineering",
+    "calendar": [],
+    "assigned_rooms": ["LT2", "MR01"],
+    "role": "Staff"
+  },
+  {
+    "id": "user_008",
+    "first_name": "Hassan",
+    "last_name": "Ahmed",
+    "email": "hassan.ahmed@university.edu",
+    "password": "hashed_pw_008",
+    "department": "Department of Mathematics",
+    "calendar": [],
+    "assigned_rooms": ["SR01"],
+    "role": "Staff"
+  },
+  {
+    "id": "user_009",
+    "first_name": "Ivy",
+    "last_name": "Brown",
+    "email": "ivy.brown@university.edu",
+    "password": "hashed_pw_009",
+    "department": "Department of Physics",
+    "calendar": [],
+    "assigned_rooms": ["SC01"],
+    "role": "Staff"
+  },
+  {
+    "id": "user_010",
+    "first_name": "Jack",
+    "last_name": "Wilson",
+    "email": "jack.wilson@university.edu",
+    "password": "hashed_pw_010",
+    "department": "Department of Physics",
+    "calendar": [],
+    "assigned_rooms": ["LT1", "FW26"],
+    "role": "Staff"
+  },
+  {
+    "id": "user_011",
+    "first_name": "Karen",
+    "last_name": "Lopez",
+    "email": "karen.lopez@university.edu",
+    "password": "hashed_pw_011",
+    "department": "Administration",
+    "calendar": [],
+    "assigned_rooms": ["MR01"],
+    "role": "Admin"
+  }
+]

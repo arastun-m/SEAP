@@ -1,0 +1,485 @@
+{
+    "projectFileVersion": "2023-04-01",
+    "stringIndexType": "Utf16CodeUnit",
+    "metadata": {
+        "projectKind": "Conversation",
+        "settings": {},
+        "projectName": "clu-energy",
+        "multilingual": false,
+        "language": "en-us",
+        "description": ""
+    },
+    "assets": {
+        "projectKind": "Conversation",
+        "intents": [
+            {
+                "category": "Info"
+            },
+            {
+                "category": "Feedback"
+            },
+            {
+                "category": "Analysis"
+            },
+            {
+                "category": "Chart"
+            }
+        ],
+        "entities": [],
+        "utterances": [
+            {
+                "text": "What buildings are on campus?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Which academic buildings can be found on campus?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Tell me what HVAC zones are defined across campus.",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "What rooms belong to the Office Cluster HVAC zone?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Show me all rooms in the Engineering Building.",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Which HVAC zone does Lecture Theatre 1 belong to?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Could you tell me what my access level is?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "What role is assigned to my account?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "List every registered user in the system.",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "What roles and permissions are assigned to users?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Can you display the access levels of all users?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Which HVAC zones are currently available in the system?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "What buildings can I find on the campus?",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            {
+                "text": "Give me a list of all rooms across the campus.",
+                "language": "en-us",
+                "intent": "Info",
+                "entities": []
+            },
+            
+            {
+                "text": "The lighting in Lecture Theatre 2 feels very dim in the late afternoons.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Please make sure the AC in the Study Corner is turned off after 7 PM.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "The temperature in Meeting Room 1 keeps changing a lot in the afternoon.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "The Chemistry Lab air feels really stuffy during afternoon sessions.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "There isn’t enough natural lighting inside the Intel Lab.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "It seems like the AC in the Math Department runs all night long.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Please reduce the brightness in the Library’s reading section.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "The basement of the Physics Building always feels humid and musty.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "It feels way too hot in here.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "We should try to save more energy.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "This area is too bright.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Could you make the building a bit cooler?",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Something feels wrong with the air quality in the seminar room.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Please adjust the climate system, it doesn’t feel right.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "All HVAC systems should be shut down on weekends.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Every lecture hall should be set to 10°C in the morning.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Turn off ventilation in all laboratories after 6 PM.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Set the room temperature to 50°C.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "For energy saving, set all rooms to 15°C.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+            {
+                "text": "Turn off every HVAC unit.",
+                "language": "en-us",
+                "intent": "Feedback",
+                "entities": []
+            },
+
+            {
+                "text": "What is the occupancy status of Lecture Theatre 1 right now?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Which rooms inside the Engineering Building are currently in use?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Tell me the occupancy levels in the Computing Lab on August 15th at 2 AM.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "How much total energy has the Lecture Wing HVAC zone consumed?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Give me the current energy usage across all campus buildings.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Which rooms in the Engineering Building consume the most energy?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "What is the present temperature in Lecture Theatre 2?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Can you provide the current CO2 levels in the Computing Lab?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Which Library Building rooms show the highest CO2 levels?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Report the occupancy status for Seminar Room 3.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Which classrooms in the Lecture Wing are unoccupied at the moment?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "What is the average temperature across all Engineering Building rooms?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Give me the total energy cost for HVAC zone Dormitory Block A.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Which HVAC zone has recorded the highest consumption today?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Show me the cost breakdown for energy in Lecture Wing’s HVAC zone.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "How much energy was consumed by Sports Complex HVAC zone last week?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Which HVAC zones are operating with the lowest efficiency?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "What is the current distribution of energy usage across all HVAC zones?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Identify which rooms in Dormitory Block B are currently occupied.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "What is the CO2 trend in Lecture Theatre 5 during this afternoon?",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+            {
+                "text": "Report the highest recorded energy usage in Administration HVAC zone today.",
+                "language": "en-us",
+                "intent": "Analysis",
+                "entities": []
+            },
+
+            {
+                "text": "Can you generate a chart showing the occupancy history for Lecture Theatre 1?",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Show me a chart of temperature levels in the Lecture Wing zone.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Please provide a chart that displays CO2 levels in the Engineering Building.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Give me a visual chart of energy consumption in the Lecture Wing zone.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "I’d like a chart showing the breakdown of energy costs for the Lecture Wing HVAC zone.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Can you create a chart of total energy costs in the Engineering Building?",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Show me a visual chart of the energy cost breakdown for the Engineering Building.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Provide me with a chart of energy feedback broken down by room.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Could you generate a chart of energy feedback grouped by category?",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Give me a chart that illustrates energy feedback breakdown by users.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Show me a graph of the occupancy history for Lecture Theatre 1.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Can you plot the temperature levels in the Lecture Wing zone?",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Please create a graph of CO2 levels in the Engineering Building.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "I’d like a visualization of energy consumption in the Lecture Wing zone.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Could you provide me a diagram that shows the breakdown of energy costs in Lecture Wing HVAC zone?",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Give me a graph of the total energy costs in the Engineering Building.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Please plot the energy cost breakdown for the Engineering Building.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Show me a visualization of energy feedback data by room.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Can you provide a graph of energy feedback separated by category?",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            },
+            {
+                "text": "Generate a diagram that illustrates energy feedback breakdown by users.",
+                "language": "en-us",
+                "intent": "Chart",
+                "entities": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,2002 @@
+[
+    {
+        "id": "LT1_2025-08-14T01:56:01",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T01:56:01",
+        "current_temperature": 17.7,
+        "current_co2": 478,
+        "occupants": 35,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T02:11:24",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T02:11:24",
+        "current_temperature": 21.2,
+        "current_co2": 885,
+        "occupants": 5,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T02:26:27",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T02:26:27",
+        "current_temperature": 19.1,
+        "current_co2": 1094,
+        "occupants": 34,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T02:40:45",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T02:40:45",
+        "current_temperature": 19.2,
+        "current_co2": 940,
+        "occupants": 10,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T02:56:13",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T02:56:13",
+        "current_temperature": 27.7,
+        "current_co2": 496,
+        "occupants": 25,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T03:10:55",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T03:10:55",
+        "current_temperature": 27.4,
+        "current_co2": 707,
+        "occupants": 11,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T03:25:44",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T03:25:44",
+        "current_temperature": 26.1,
+        "current_co2": 1380,
+        "occupants": 9,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T03:41:11",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T03:41:11",
+        "current_temperature": 17.4,
+        "current_co2": 931,
+        "occupants": 49,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T03:56:04",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T03:56:04",
+        "current_temperature": 27.0,
+        "current_co2": 1173,
+        "occupants": 18,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T04:11:16",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T04:11:16",
+        "current_temperature": 25.1,
+        "current_co2": 441,
+        "occupants": 7,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T04:25:34",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T04:25:34",
+        "current_temperature": 26.1,
+        "current_co2": 974,
+        "occupants": 16,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T04:40:37",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T04:40:37",
+        "current_temperature": 17.4,
+        "current_co2": 1472,
+        "occupants": 2,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T04:55:52",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T04:55:52",
+        "current_temperature": 22.2,
+        "current_co2": 846,
+        "occupants": 41,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T05:11:09",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T05:11:09",
+        "current_temperature": 26.2,
+        "current_co2": 1152,
+        "occupants": 34,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T05:25:49",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T05:25:49",
+        "current_temperature": 18.3,
+        "current_co2": 795,
+        "occupants": 4,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T05:41:10",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T05:41:10",
+        "current_temperature": 26.7,
+        "current_co2": 1027,
+        "occupants": 21,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T05:56:23",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T05:56:23",
+        "current_temperature": 21.4,
+        "current_co2": 819,
+        "occupants": 21,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T06:11:02",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T06:11:02",
+        "current_temperature": 22.1,
+        "current_co2": 1297,
+        "occupants": 9,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T06:25:56",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T06:25:56",
+        "current_temperature": 25.8,
+        "current_co2": 1384,
+        "occupants": 17,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T06:41:16",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T06:41:16",
+        "current_temperature": 20.8,
+        "current_co2": 1357,
+        "occupants": 1,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T06:55:43",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T06:55:43",
+        "current_temperature": 16.5,
+        "current_co2": 1194,
+        "occupants": 18,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T07:11:20",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T07:11:20",
+        "current_temperature": 24.9,
+        "current_co2": 733,
+        "occupants": 34,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T07:25:31",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T07:25:31",
+        "current_temperature": 27.0,
+        "current_co2": 774,
+        "occupants": 23,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T07:41:10",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T07:41:10",
+        "current_temperature": 24.7,
+        "current_co2": 1360,
+        "occupants": 37,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T07:56:03",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T07:56:03",
+        "current_temperature": 17.9,
+        "current_co2": 1419,
+        "occupants": 24,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T08:11:21",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T08:11:21",
+        "current_temperature": 24.4,
+        "current_co2": 1290,
+        "occupants": 14,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T08:26:29",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T08:26:29",
+        "current_temperature": 27.4,
+        "current_co2": 1256,
+        "occupants": 1,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T08:40:31",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T08:40:31",
+        "current_temperature": 27.9,
+        "current_co2": 1412,
+        "occupants": 29,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T08:56:19",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T08:56:19",
+        "current_temperature": 23.5,
+        "current_co2": 842,
+        "occupants": 41,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T09:11:24",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T09:11:24",
+        "current_temperature": 27.1,
+        "current_co2": 607,
+        "occupants": 44,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T09:26:02",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T09:26:02",
+        "current_temperature": 18.5,
+        "current_co2": 1153,
+        "occupants": 45,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T09:40:34",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T09:40:34",
+        "current_temperature": 25.1,
+        "current_co2": 627,
+        "occupants": 15,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T09:55:33",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T09:55:33",
+        "current_temperature": 16.3,
+        "current_co2": 887,
+        "occupants": 14,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T10:11:09",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T10:11:09",
+        "current_temperature": 26.8,
+        "current_co2": 491,
+        "occupants": 35,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T10:26:11",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T10:26:11",
+        "current_temperature": 20.4,
+        "current_co2": 892,
+        "occupants": 16,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T10:40:45",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T10:40:45",
+        "current_temperature": 17.6,
+        "current_co2": 537,
+        "occupants": 46,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T10:56:11",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T10:56:11",
+        "current_temperature": 24.9,
+        "current_co2": 1197,
+        "occupants": 46,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T11:11:26",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T11:11:26",
+        "current_temperature": 22.0,
+        "current_co2": 756,
+        "occupants": 36,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T11:26:21",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T11:26:21",
+        "current_temperature": 26.0,
+        "current_co2": 1138,
+        "occupants": 9,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T11:41:03",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T11:41:03",
+        "current_temperature": 25.7,
+        "current_co2": 864,
+        "occupants": 11,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T11:56:29",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T11:56:29",
+        "current_temperature": 17.6,
+        "current_co2": 944,
+        "occupants": 7,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T12:10:47",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T12:10:47",
+        "current_temperature": 24.5,
+        "current_co2": 1265,
+        "occupants": 18,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T12:25:52",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T12:25:52",
+        "current_temperature": 28.0,
+        "current_co2": 979,
+        "occupants": 4,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T12:40:55",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T12:40:55",
+        "current_temperature": 17.3,
+        "current_co2": 426,
+        "occupants": 5,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T12:55:58",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T12:55:58",
+        "current_temperature": 24.3,
+        "current_co2": 742,
+        "occupants": 34,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T13:10:59",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T13:10:59",
+        "current_temperature": 16.2,
+        "current_co2": 1407,
+        "occupants": 24,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T13:26:03",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T13:26:03",
+        "current_temperature": 16.5,
+        "current_co2": 727,
+        "occupants": 32,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T13:40:36",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T13:40:36",
+        "current_temperature": 22.1,
+        "current_co2": 1138,
+        "occupants": 28,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T13:56:30",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T13:56:30",
+        "current_temperature": 25.3,
+        "current_co2": 1197,
+        "occupants": 23,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "LT1_2025-08-14T14:11:20",
+        "room_id": "LT1",
+        "timestamp": "2025-08-14T14:11:20",
+        "current_temperature": 24.9,
+        "current_co2": 486,
+        "occupants": 18,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+        {
+        "id": "FW26_2025-08-14T01:56:29",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T01:56:29",
+        "current_temperature": 29.5,
+        "current_co2": 2089,
+        "occupants": 61,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T02:10:49",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T02:10:49",
+        "current_temperature": 15.1,
+        "current_co2": 1390,
+        "occupants": 94,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T02:25:35",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T02:25:35",
+        "current_temperature": 18.0,
+        "current_co2": 1193,
+        "occupants": 34,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T02:41:28",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T02:41:28",
+        "current_temperature": 25.8,
+        "current_co2": 1458,
+        "occupants": 95,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T02:56:11",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T02:56:11",
+        "current_temperature": 15.4,
+        "current_co2": 855,
+        "occupants": 15,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T03:10:53",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T03:10:53",
+        "current_temperature": 16.1,
+        "current_co2": 693,
+        "occupants": 61,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T03:26:08",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T03:26:08",
+        "current_temperature": 29.1,
+        "current_co2": 465,
+        "occupants": 29,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T03:40:59",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T03:40:59",
+        "current_temperature": 25.6,
+        "current_co2": 1468,
+        "occupants": 9,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T03:56:24",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T03:56:24",
+        "current_temperature": 19.1,
+        "current_co2": 2440,
+        "occupants": 60,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T04:11:13",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T04:11:13",
+        "current_temperature": 28.1,
+        "current_co2": 599,
+        "occupants": 64,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T04:25:34",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T04:25:34",
+        "current_temperature": 27.0,
+        "current_co2": 1423,
+        "occupants": 11,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T04:41:13",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T04:41:13",
+        "current_temperature": 23.7,
+        "current_co2": 384,
+        "occupants": 6,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T04:55:46",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T04:55:46",
+        "current_temperature": 27.6,
+        "current_co2": 1439,
+        "occupants": 85,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T05:10:35",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T05:10:35",
+        "current_temperature": 18.2,
+        "current_co2": 519,
+        "occupants": 73,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T05:26:15",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T05:26:15",
+        "current_temperature": 24.0,
+        "current_co2": 2274,
+        "occupants": 40,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T05:40:48",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T05:40:48",
+        "current_temperature": 24.8,
+        "current_co2": 2269,
+        "occupants": 90,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T05:56:16",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T05:56:16",
+        "current_temperature": 21.6,
+        "current_co2": 2050,
+        "occupants": 55,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T06:11:28",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T06:11:28",
+        "current_temperature": 15.6,
+        "current_co2": 612,
+        "occupants": 93,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T06:25:43",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T06:25:43",
+        "current_temperature": 24.0,
+        "current_co2": 901,
+        "occupants": 58,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T06:41:17",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T06:41:17",
+        "current_temperature": 26.6,
+        "current_co2": 1113,
+        "occupants": 52,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T06:56:12",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T06:56:12",
+        "current_temperature": 17.7,
+        "current_co2": 1061,
+        "occupants": 86,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T07:11:12",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T07:11:12",
+        "current_temperature": 21.6,
+        "current_co2": 2008,
+        "occupants": 68,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T07:26:02",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T07:26:02",
+        "current_temperature": 19.8,
+        "current_co2": 1429,
+        "occupants": 7,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T07:40:33",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T07:40:33",
+        "current_temperature": 20.5,
+        "current_co2": 407,
+        "occupants": 8,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T07:55:41",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T07:55:41",
+        "current_temperature": 20.2,
+        "current_co2": 1291,
+        "occupants": 49,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T08:11:15",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T08:11:15",
+        "current_temperature": 29.3,
+        "current_co2": 1244,
+        "occupants": 29,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T08:26:02",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T08:26:02",
+        "current_temperature": 23.9,
+        "current_co2": 2469,
+        "occupants": 53,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T08:40:58",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T08:40:58",
+        "current_temperature": 24.4,
+        "current_co2": 1185,
+        "occupants": 12,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T08:56:17",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T08:56:17",
+        "current_temperature": 26.8,
+        "current_co2": 1188,
+        "occupants": 36,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T09:11:14",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T09:11:14",
+        "current_temperature": 19.0,
+        "current_co2": 1476,
+        "occupants": 69,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T09:25:36",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T09:25:36",
+        "current_temperature": 21.5,
+        "current_co2": 1795,
+        "occupants": 17,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T09:40:59",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T09:40:59",
+        "current_temperature": 23.1,
+        "current_co2": 1600,
+        "occupants": 88,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T09:56:28",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T09:56:28",
+        "current_temperature": 19.4,
+        "current_co2": 2012,
+        "occupants": 88,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T10:11:22",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T10:11:22",
+        "current_temperature": 27.8,
+        "current_co2": 1429,
+        "occupants": 68,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T10:26:29",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T10:26:29",
+        "current_temperature": 28.3,
+        "current_co2": 1352,
+        "occupants": 22,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T10:40:32",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T10:40:32",
+        "current_temperature": 20.5,
+        "current_co2": 1804,
+        "occupants": 28,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T10:56:20",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T10:56:20",
+        "current_temperature": 19.6,
+        "current_co2": 1808,
+        "occupants": 35,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T11:11:17",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T11:11:17",
+        "current_temperature": 22.5,
+        "current_co2": 860,
+        "occupants": 93,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T11:26:19",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T11:26:19",
+        "current_temperature": 19.4,
+        "current_co2": 2472,
+        "occupants": 59,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T11:41:24",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T11:41:24",
+        "current_temperature": 16.8,
+        "current_co2": 1238,
+        "occupants": 66,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T11:56:02",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T11:56:02",
+        "current_temperature": 23.7,
+        "current_co2": 1118,
+        "occupants": 83,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T12:11:16",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T12:11:16",
+        "current_temperature": 16.7,
+        "current_co2": 2019,
+        "occupants": 13,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T12:26:04",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T12:26:04",
+        "current_temperature": 23.2,
+        "current_co2": 1794,
+        "occupants": 42,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T12:40:47",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T12:40:47",
+        "current_temperature": 20.4,
+        "current_co2": 2177,
+        "occupants": 3,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T12:56:01",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T12:56:01",
+        "current_temperature": 17.1,
+        "current_co2": 2243,
+        "occupants": 55,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T13:10:41",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T13:10:41",
+        "current_temperature": 25.6,
+        "current_co2": 1852,
+        "occupants": 18,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T13:25:55",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T13:25:55",
+        "current_temperature": 24.4,
+        "current_co2": 904,
+        "occupants": 90,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T13:40:57",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T13:40:57",
+        "current_temperature": 19.4,
+        "current_co2": 1250,
+        "occupants": 63,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T13:56:22",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T13:56:22",
+        "current_temperature": 27.7,
+        "current_co2": 1920,
+        "occupants": 59,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    },
+    {
+        "id": "FW26_2025-08-14T14:10:39",
+        "room_id": "FW26",
+        "timestamp": "2025-08-14T14:10:39",
+        "current_temperature": 23.7,
+        "current_co2": 1408,
+        "occupants": 84,
+        "current_hvac_goal": {
+            "setpoint_temperature": 22,
+            "ventilation_mode": "eco",
+            "co2_control_enabled": false,
+            "status": "off",
+            "timestamp": "2025-08-14T01:55:31.635838"
+        },
+        "_rid": "pVZSAN6TYGsBAAAAAAAAAA==",
+        "_self": "dbs/pVZSAA==/colls/pVZSAN6TYGs=/docs/pVZSAN6TYGsBAAAAAAAAAA==/",
+        "_etag": "\"0d0021fb-0000-1100-0000-689d42130000\"",
+        "_attachments": "attachments/",
+        "_ts": 1755136531
+    }
+]

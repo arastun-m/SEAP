@@ -1,0 +1,12 @@
+{"query": "What buildings are available on campus?", "user_id": "user_001", "user_role": "Student", "ground_truth": "CampusInfo"}
+{"query": "List all rooms in the Engineering Building.", "user_id": "user_001", "user_role": "Student", "ground_truth": "CampusInfo"}
+{"query": "Which HVAC zone is Meeting Room 1 in?", "user_id": "user_001", "user_role": "Student", "ground_truth": "CampusInfo"}
+{"query": "List all registered users.", "user_id": "user_014", "user_role": "Admin", "ground_truth": "AdminInfo"}
+{"query": "What rooms are in the Engineering Building?", "user_id": "user_014", "user_role": "Admin", "ground_truth": "AdminInfo"}
+{"query": "How many people are currently in Computing Lab?","user_id": "user_014", "user_role": "Admin", "ground_truth": "AdminInfo"}
+{"query": "The AC in Lecture Theatre 1 is too cold in the morning.", "user_id": "user_002", "user_role": "Student", "ground_truth": "Feedback"}
+{"query": "Temperature fluctuates in the Electronics Lab.", "user_id": "user_002", "user_role": "Student", "ground_truth": "Feedback"}
+{"query": "Set all rooms to 15°C to save energy.", "user_id": "user_002", "user_role": "Student", "ground_truth": "Feedback"}
+{"query": "Show me a chart of temperature levels in the Computing Lab.", "user_id": "user_014", "user_role": "Admin", "ground_truth": "ChartPlotter"}
+{"query": "Show me a chart of the co2 levels in the Sports Building.", "user_id": "user_014", "user_role": "Admin", "ground_truth": "ChartPlotter"}
+{"query": "Plot the energy consumption of the Office Cluster.", "user_id": "user_014", "user_role": "Admin", "ground_truth": "ChartPlotter"}

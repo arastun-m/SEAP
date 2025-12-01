@@ -1,0 +1,146 @@
+{"query": "What buildings are on campus?", "ground_truth": "Info"}
+{"query": "What academic buildings exist on campus?", "ground_truth": "Info"}
+{"query": "What HVAC zones are available on campus?", "ground_truth": "Info"}
+{"query": "Which rooms are located in Office Cluster HVAC zone?", "ground_truth": "Info"}
+{"query": "List all rooms in the Engineering Building.", "ground_truth": "Info"}
+{"query": "What is the HVAC zone for the Lecture Theatre 1", "ground_truth": "Info"}
+{"query": "Can you tell me my access level?", "ground_truth": "Info"}
+{"query": "What is my user role?", "ground_truth": "Info"}
+{"query": "Give me a list of all registered users.", "ground_truth": "Info"}
+{"query": "What are the roles and permissions of users?", "ground_truth": "Info"}
+{"query": "Can you show me the access levels of all users?", "ground_truth": "Info"}
+{"query": "Which HVAC zones exist in the system?", "ground_truth": "Info"}
+{"query": "What buildings are available in the campus?", "ground_truth": "Info"}
+{"query": "List all rooms in the campus.", "ground_truth": "Info"}
+{"query": "The lighting in Lecture Theatre 2 is very dim during late afternoons.", "ground_truth": "Feedback"}
+{"query": "You should shut down the AC in the Study Corner after 7 PM.", "ground_truth": "Feedback"}
+{"query": "The temperature in Meeting Room 1 fluctuates a lot during the afternoon.", "ground_truth": "Feedback"}
+{"query": "The air in the Chemistry Lab feels really stuffy during the afternoon sessions.", "ground_truth": "Feedback"}
+{"query": "There’s not enough natural light in the Intel Lab.", "ground_truth": "Feedback"}
+{"query": "The AC in the Math Department seems to stay on all night.", "ground_truth": "Feedback"}
+{"query": "Please lower the brightness in the Library’s reading area.", "ground_truth": "Feedback"}
+{"query": "It's always humid and musty in the Physics Building basement.", "ground_truth": "Feedback"}
+{"query": "Too hot.", "ground_truth": "Feedback"}
+{"query": "Lets save energy.", "ground_truth": "Feedback"}
+{"query": "It's too bright.", "ground_truth": "Feedback"}
+{"query": "Can you make the building cooler?", "ground_truth": "Feedback"}
+{"query": "There’s something off with the air in the seminar room.", "ground_truth": "Feedback"}
+{"query": "Fix the climate.", "ground_truth": "Feedback"}
+{"query": "Shut down all HVAC systems during weekends.", "ground_truth": "Feedback"}
+{"query": "All lecture halls should have 10°C in the morning.", "ground_truth": "Feedback"}
+{"query": "Disable ventilation in all labs after 6 PM.", "ground_truth": "Feedback"}
+{"query": "Set the room to 50°C.", "ground_truth": "Feedback"}
+{"query": "Set all rooms to 15°C to save energy.", "ground_truth": "Feedback"}
+{"query": "Turn off all HVACs.", "ground_truth": "Feedback"}
+{"query": "The lighting in Lecture Theatre 2 gets too dark in the afternoons.", "ground_truth": "Feedback"}
+{"query": "Try switching off the AC in Study Corner after 7 PM to save energy.", "ground_truth": "Feedback"}
+{"query": "Meeting Room 1 temperature is very inconsistent during afternoons.", "ground_truth": "Feedback"}
+{"query": "Air quality in the Chemistry Lab feels poor during afternoon classes.", "ground_truth": "Feedback"}
+{"query": "Intel Lab doesn’t get enough daylight.", "ground_truth": "Feedback"}
+{"query": "The AC in the Math Department keeps running all through the night.", "ground_truth": "Feedback"}
+{"query": "Reduce the brightness in the Library’s reading area, it’s too harsh.", "ground_truth": "Feedback"}
+{"query": "Physics Building basement always feels damp and humid.", "ground_truth": "Feedback"}
+{"query": "The room feels way too hot.", "ground_truth": "Feedback"}
+{"query": "We should focus more on saving energy.", "ground_truth": "Feedback"}
+{"query": "This space is overly bright.", "ground_truth": "Feedback"}
+{"query": "Please make the building temperature cooler.", "ground_truth": "Feedback"}
+{"query": "The seminar room’s air feels heavy and uncomfortable.", "ground_truth": "Feedback"}
+{"query": "The climate control system doesn’t feel right.", "ground_truth": "Feedback"}
+{"query": "All HVAC systems should be turned off on weekends.", "ground_truth": "Feedback"}
+{"query": "Set lecture halls to 10°C in the mornings.", "ground_truth": "Feedback"}
+{"query": "Turn off ventilation in labs after 6 PM.", "ground_truth": "Feedback"}
+{"query": "The room temperature should be raised to 50°C.", "ground_truth": "Feedback"}
+{"query": "Adjust all rooms to 15°C to conserve energy.", "ground_truth": "Feedback"}
+{"query": "It gets really cold in the Library during evenings.", "ground_truth": "Feedback"}
+{"query": "The AC is too strong in Lecture Theatre 3.", "ground_truth": "Feedback"}
+{"query": "Can we have better airflow in the Computer Lab?", "ground_truth": "Feedback"}
+{"query": "The lights in the hallway are left on all night unnecessarily.", "ground_truth": "Feedback"}
+{"query": "It’s too noisy when the ventilation is on in the classrooms.", "ground_truth": "Feedback"}
+{"query": "The heating system makes the offices too warm in the mornings.", "ground_truth": "Feedback"}
+{"query": "Please dim the lights in the cafeteria during lunch hours.", "ground_truth": "Feedback"}
+{"query": "The auditorium feels very cold during events.", "ground_truth": "Feedback"}
+{"query": "Can the air conditioning be turned down in the Biology Lab?", "ground_truth": "Feedback"}
+{"query": "The ventilation in Meeting Room 2 is too strong.", "ground_truth": "Feedback"}
+{"query": "Hallways are too dark after 8 PM, increase the lighting.", "ground_truth": "Feedback"}
+{"query": "What is the occupancy status for room Lecture Theatre 1?", "ground_truth": "Analysis"}
+{"query": "Which rooms in the Engineering Building are currently occupied?", "ground_truth": "Analysis"}
+{"query": "What were the occupancy levels in room Computing Lab on August 15th 2am?", "ground_truth": "Analysis"}
+{"query": "What is the total energy consumption of the HVAC zone Lecture Wing?", "ground_truth": "Analysis"}
+{"query": "What is the current energy usage in the campus buildings?", "ground_truth": "Analysis"}
+{"query": "Which rooms in the Engineering Building have the highest energy usage?", "ground_truth": "Analysis"}
+{"query": "What is the current temperature in Lecture Theatre 2?", "ground_truth": "Analysis"}
+{"query": "Can you tell me the CO2 levels in Computing Lab right now?", "ground_truth": "Analysis"}
+{"query": "Which rooms in the Library Building have the highest CO2 levels?", "ground_truth": "Analysis"}
+{"query": "What is the occupancy status for Seminar Room 3?", "ground_truth": "Analysis"}
+{"query": "Which classrooms in the Lecture Wing are currently unoccupied?", "ground_truth": "Analysis"}
+{"query": "What is the average temperature in the Engineering Building rooms?", "ground_truth": "Analysis"}
+{"query": "What is the total energy cost of the HVAC zone Dormitory Block A?", "ground_truth": "Analysis"}
+{"query": "Which HVAC zone has the highest energy consumption today?", "ground_truth": "Analysis"}
+{"query": "What is the breakdown of energy costs for the Lecture Wing HVAC zone?", "ground_truth": "Analysis"}
+{"query": "How much energy was used by the Sports Complex HVAC zone last week?", "ground_truth": "Analysis"}
+{"query": "Which HVAC zones have the lowest energy efficiency?", "ground_truth": "Analysis"}
+{"query": "What is the current energy usage split across all HVAC zones?", "ground_truth": "Analysis"}
+{"query": "Can you identify which rooms in Dormitory Block B are occupied right now?", "ground_truth": "Analysis"}
+{"query": "What is the CO2 concentration trend in Lecture Theatre 5 this afternoon?", "ground_truth": "Analysis"}
+{"query": "What is the highest recorded energy usage in the Administration HVAC zone today?", "ground_truth": "Analysis"}
+{"query": "Can you give me chart of occupancy history in the room Lecture Theatre 1?", "ground_truth": "Chart"}
+{"query": "Can you give me a chart of temperature levels in Lecture Wing zone?", "ground_truth": "Chart"}
+{"query": "Give me chart that shows C02 levels in Engineering Building?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy consumption in Lecture Wing zone?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy cost breakdown in Lecture Wing zone?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy costs in Engineering building?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy cost breakdown in Engineering building?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy feedback breakdown by room?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy feedback breakdown by category?", "ground_truth": "Chart"}
+{"query": "Can you provide me a chart of energy feedback breakdown by users?", "ground_truth": "Chart"}
+{"query": "Can you generate a chart showing the occupancy history for Lecture Theatre 1?", "ground_truth": "Chart"}
+{"query": "Show me a chart of temperature levels in the Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "Please provide a chart that displays CO2 levels in the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Give me a visual chart of energy consumption in the Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "I’d like a chart showing the breakdown of energy costs for the Lecture Wing HVAC zone.", "ground_truth": "Chart"}
+{"query": "Can you create a chart of total energy costs in the Engineering Building?", "ground_truth": "Chart"}
+{"query": "Show me a visual chart of the energy cost breakdown for the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Provide me with a chart of energy feedback broken down by room.", "ground_truth": "Chart"}
+{"query": "Could you generate a chart of energy feedback grouped by category?", "ground_truth": "Chart"}
+{"query": "Give me a chart that illustrates energy feedback breakdown by users.", "ground_truth": "Chart"}
+{"query": "Show me a graph of the occupancy history for Lecture Theatre 1.", "ground_truth": "Chart"}
+{"query": "Can you plot the temperature levels in the Lecture Wing zone?", "ground_truth": "Chart"}
+{"query": "Please create a graph of CO2 levels in the Engineering Building.", "ground_truth": "Chart"}
+{"query": "I’d like a visualization of energy consumption in the Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "Could you provide me a diagram that shows the breakdown of energy costs in Lecture Wing HVAC zone?", "ground_truth": "Chart"}
+{"query": "Give me a graph of the total energy costs in the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Please plot the energy cost breakdown for the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Show me a visualization of energy feedback data by room.", "ground_truth": "Chart"}
+{"query": "Can you provide a graph of energy feedback separated by category?", "ground_truth": "Chart"}
+{"query": "Generate a diagram that illustrates energy feedback breakdown by users.", "ground_truth": "Chart"}
+{"query": "Could you plot a chart of occupancy history in Lecture Theatre 1?", "ground_truth": "Chart"}
+{"query": "Show me a visualization of temperature levels across the Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "Please display a graph of CO2 concentration in the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Generate a visualization of energy consumption trends in Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "Give me a diagram that shows the breakdown of energy costs in Lecture Wing.", "ground_truth": "Chart"}
+{"query": "Provide me a graph of total energy costs in the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Can you create a visualization that details the energy cost breakdown in Engineering Building?", "ground_truth": "Chart"}
+{"query": "I’d like to see a chart of energy feedback split by room.", "ground_truth": "Chart"}
+{"query": "Can you generate a graph that categorizes energy feedback by type?", "ground_truth": "Chart"}
+{"query": "Show me a diagram illustrating energy feedback distribution by users.", "ground_truth": "Chart"}
+{"query": "Please provide a chart that visualizes the occupancy history of Lecture Theatre 1.", "ground_truth": "Chart"}
+{"query": "Plot the temperature variations in Lecture Wing zone for me.", "ground_truth": "Chart"}
+{"query": "I want to see a visualization of CO2 readings in the Engineering Building.", "ground_truth": "Chart"}
+{"query": "Could you give me a graph representing energy usage in the Lecture Wing zone?", "ground_truth": "Chart"}
+{"query": "Provide a diagram that breaks down the energy costs in Lecture Wing HVAC systems.", "ground_truth": "Chart"}
+{"query": "Show me a plot of the overall energy costs in Engineering Building.", "ground_truth": "Chart"}
+{"query": "Create a chart displaying the energy cost breakdown for Engineering Building.", "ground_truth": "Chart"}
+{"query": "Give me a visualization that shows energy feedback distribution by rooms.", "ground_truth": "Chart"}
+{"query": "Could you make a graph that separates energy feedback by category?", "ground_truth": "Chart"}
+{"query": "I’d like a diagram showing the breakdown of energy feedback by users.", "ground_truth": "Chart"}
+{"query": "Can you generate a visualization of occupancy history for Lecture Theatre 1?", "ground_truth": "Chart"}
+{"query": "Please display a chart of temperature changes in the Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "Show me a diagram that tracks CO2 levels inside the Engineering Building.", "ground_truth": "Chart"}
+{"query": "I want a chart of energy consumption patterns in Lecture Wing zone.", "ground_truth": "Chart"}
+{"query": "Could you give me a graph illustrating energy cost breakdown in Lecture Wing?", "ground_truth": "Chart"}
+{"query": "Generate a visualization of total energy costs for Engineering Building.", "ground_truth": "Chart"}
+{"query": "Please provide me a chart showing the breakdown of energy costs in Engineering Building.", "ground_truth": "Chart"}
+{"query": "Show me a graph visualizing energy feedback categorized by room.", "ground_truth": "Chart"}
+{"query": "Create a diagram of energy feedback grouped by categories.", "ground_truth": "Chart"}
+{"query": "Could you plot a chart that displays energy feedback separated by users?", "ground_truth": "Chart"}
+

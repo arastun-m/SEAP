@@ -1,0 +1,4 @@
+azure-ai-evaluation
+pandas
+matplotlib
+seaborn

@@ -1,0 +1,50 @@
+{"query": "List all registered users.\nThen show me their roles.", "ground_truth": "info"}
+{"query": "Give me all users in the system.\nWhich of them are admins?", "ground_truth": "info"}
+{"query": "Show me the user roles.\nAlso, list the permissions for each role.", "ground_truth": "info"}
+{"query": "List all buildings on campus.\nThen show me which has the Computing Lab.", "ground_truth": "info"}
+{"query": "What HVAC zones are in the Engineering Building?\nThen show me which rooms belong to Lecture Wing.", "ground_truth": "info"}
+{"query": "Give me all HVAC zones across campus.\nWhich are linked to the Sports Building?", "ground_truth": "info"}
+{"query": "List all rooms in Engineering Building.\nWhich ones are lecture theatres?", "ground_truth": "info"}
+{"query": "Show me the infrastructure hierarchy of the Sports Building.\nWhich HVAC zone covers the Sports Hall?", "ground_truth": "info"}
+{"query": "Give me all seminar rooms on campus.\nWhich building contains Seminar Room 1?", "ground_truth": "info"}
+{"query": "List the HVAC zones in Engineering.\nThen show their associated rooms.", "ground_truth": "info"}
+{"query": "Show me the current occupancy of Lecture Theatre 1.\nAlso, what’s its CO2 level?", "ground_truth": "logs"}
+{"query": "Give me the occupancy status of Seminar Room 1.\nThen tell me the current temperature.", "ground_truth": "logs"}
+{"query": "What is the CO2 concentration in Meeting Room 1?\nHow many people are in the room right now?", "ground_truth": "logs"}
+{"query": "Show me the temperature in Computing Lab.\nAlso, what is the occupancy?", "ground_truth": "logs"}
+{"query": "What’s the occupancy in Study Corner right now?\nAnd what was it an hour ago?", "ground_truth": "logs"}
+{"query": "Give me the room status for Multi-Purpose Sports Hall.\nWhat’s the CO2 trend today?", "ground_truth": "logs"}
+{"query": "Show me the occupancy of Lecture Theatre 2.\nAlso, what is its average temperature today?", "ground_truth": "logs"}
+{"query": "What is the occupancy of the Engineering Building?\nWhich room has the highest CO2?", "ground_truth": "logs"}
+{"query": "Show me current occupancy across Office Cluster.\nWhich rooms are empty?", "ground_truth": "logs"}
+{"query": "What is the air quality in Seminar Room 1?\nAlso, provide its temperature.", "ground_truth": "logs"}
+{"query": "Give me the energy usage of Lecture Wing zone.\nThen show me the total costs.", "ground_truth": "logs"}
+{"query": "Show me the energy metrics for Office Cluster.\nWhat’s the breakdown of costs?", "ground_truth": "logs"}
+{"query": "What is the energy consumption of Athletic Complex?\nWhich cost category is the largest?", "ground_truth": "logs"}
+{"query": "Give me the energy usage in the Engineering Building.\nWhich HVAC zone consumes more?", "ground_truth": "logs"}
+{"query": "Show me the energy costs for all zones.\nWhich one is the most expensive?", "ground_truth": "logs"}
+{"query": "List HVAC energy usage campus-wide.\nWhich building spends the most?", "ground_truth": "logs"}
+{"query": "What is the current energy usage in Sports Building?\nAnd what was it yesterday?", "ground_truth": "logs"}
+{"query": "Give me today’s energy usage for Lecture Wing.\nAlso, what’s the trend this week?", "ground_truth": "logs"}
+{"query": "Show me the energy breakdown for Office Cluster.\nWhich appliances contribute most?", "ground_truth": "logs"}
+{"query": "What is the monthly energy cost of Athletic Complex?\nAlso, how does it compare to Lecture Wing?", "ground_truth": "logs"}
+{"query": "List all buildings.\nWhich ones have HVAC zones?", "ground_truth": "info"}
+{"query": "Show me the rooms in Engineering.\nWhich belong to Office Cluster?", "ground_truth": "info"}
+{"query": "Give me all HVAC zones in Sports Building.\nWhich room is in Athletic Complex?", "ground_truth": "info"}
+{"query": "List all users with admin role.\nThen show me their permissions.", "ground_truth": "info"}
+{"query": "Show me the user roles.\nWhich ones allow HVAC data access?", "ground_truth": "info"}
+{"query": "Give me a list of seminar rooms.\nWhich are in Engineering?", "ground_truth": "info"}
+{"query": "List all rooms in the Sports Building.\nWhich ones are lecture halls?", "ground_truth": "info"}
+{"query": "What rooms are in Lecture Wing?\nDo they include Computing Lab?", "ground_truth": "info"}
+{"query": "Show me all HVAC zones campus-wide.\nWhich zone includes Meeting Room 1?", "ground_truth": "info"}
+{"query": "Give me the system roles.\nWhich role has the widest permissions?", "ground_truth": "info"}
+{"query": "What is the occupancy of Lecture Theatre 1?\nAlso, what is its temperature right now?", "ground_truth": "logs"}
+{"query": "Give me the CO2 levels of Seminar Room 1.\nThen show me yesterday’s occupancy.", "ground_truth": "logs"}
+{"query": "Show me the temperature in Computing Lab.\nWhat was it at 8am today?", "ground_truth": "logs"}
+{"query": "What is the occupancy of Study Corner?\nWas it used in the last 2 hours?", "ground_truth": "logs"}
+{"query": "Give me the status of Multi-Purpose Sports Hall.\nWhat is its current occupancy?", "ground_truth": "logs"}
+{"query": "Show me today’s energy usage of Lecture Wing.\nWhat is its daily cost so far?", "ground_truth": "logs"}
+{"query": "What is the cost breakdown for Office Cluster zone?\nWhich component is the highest?", "ground_truth": "logs"}
+{"query": "Give me the weekly energy usage of Athletic Complex.\nWhat is the total cost?", "ground_truth": "logs"}
+{"query": "Show me the energy cost of Lecture Wing this month.\nHow does it compare to Office Cluster?", "ground_truth": "logs"}
+{"query": "What is the energy usage for all Engineering zones?\nWhich zone consumes the least?", "ground_truth": "logs"}

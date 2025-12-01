@@ -1,0 +1,127 @@
+{
+  "assets": {
+    "synonyms": [],
+    "qnas": [
+      {
+        "id": "1",
+        "answer": "The system uses occupancy sensors and scheduling to detect when spaces are unused, then applies automated energy-saving routines.",
+        "questions": [
+          "Why did my HVAC turn off automatically?",
+          "Why does the HVAC shut down when no one is in the room?",
+          "What causes the system to turn off HVAC without input?",
+          "Why is my air conditioning stopping on its own?"
+        ]
+      },
+      {
+        "id": "2",
+        "answer": "Sensor data is refreshed approximately every 5 minutes. Visualization dashboards show near real-time data across supported buildings and rooms.",
+        "questions": [
+          "How often is data updated?",
+          "What’s the data refresh rate for sensors?",
+          "How frequently is sensor information refreshed?",
+          "When does the system update its readings?"
+        ]
+      },
+      {
+        "id": "3",
+        "answer": "Your data is private. Only you and authorized campus administrators (with proper access roles) can view individual-level usage data. Privacy is governed under campus data governance policies.",
+        "questions": [
+          "Who can access my energy usage data?",
+          "Is my energy data visible to others?",
+          "Who has permission to view my usage information?",
+          "Can anyone else see my dorm’s energy stats?"
+        ]
+      },
+      {
+        "id": "4",
+        "answer": "Yes. You can enable alerts in your user profile to notify you when energy use exceeds a custom or campus-defined threshold.",
+        "questions": [
+          "Can I get alerts for excessive energy usage?",
+          "How do I set energy consumption alerts?",
+          "Is it possible to be notified when my room uses too much power?",
+          "How can I receive warnings for high energy use?"
+        ]
+      },
+      {
+        "id": "5",
+        "answer": "Use the in-app feedback form or chatbot to report anomalies. You can also contact your local Sustainability Champion or the campus Energy Team.",
+        "questions": [
+          "Where do I report incorrect data or dashboard errors?",
+          "How can I flag errors in the energy dashboard?",
+          "Who should I contact about wrong energy data?",
+          "What’s the process for reporting system data issues?"
+        ]
+      },
+      {
+        "id": "6",
+        "answer": "Feedback is reviewed weekly by system admins. Relevant suggestions may influence adjustments in automation rules, HVAC tuning, or sustainability policies.",
+        "questions": [
+          "How does the system learn from feedback?",
+          "What happens after I give feedback?",
+          "Does my input change how the system works?",
+          "Is user feedback used to improve the platform?"
+        ]
+      },
+      {
+        "id": "7",
+        "answer": "Yes, critical systems remain active via local backup services. In the event of fire drills or power cuts, automations pause, and emergency override protocols take effect.",
+        "questions": [
+          "Does the system work during emergencies or outages?",
+          "Will I lose system access during a power cut?",
+          "Is HVAC still controlled during blackouts?",
+          "What happens to automation during emergencies?"
+        ]
+      },
+      {
+        "id": "8",
+        "answer": "Yes. All web and mobile tools are securely accessible off-campus with multi-factor authentication (MFA) for authorized users.",
+        "questions": [
+          "Can I access the system outside campus?",
+          "Is off-campus access available?",
+          "Can I use the dashboard from home?",
+          "Do I need to be on campus to use the system?"
+        ]
+      },
+      {
+        "id": "9",
+        "answer": "The platform aligns with Sustainable Procurement, Business Travel, Green Labs, Waste Minimization, and Biodiversity Action Plan initiatives. Admin dashboards can reflect related metrics and sustainability scores.",
+        "questions": [
+          "What sustainability policies does the system support?",
+          "Which environmental initiatives does the system align with?",
+          "Are university sustainability programs shown in the system?",
+          "What policies are tracked for sustainability?"
+        ]
+      },
+      {
+        "id": "10",
+        "answer": "Yes. The system highlights lab energy usage and shares LEAF performance badges for participating groups. You can also apply for the Sustainable Lab Kit Fund for equipment upgrades.",
+        "questions": [
+          "Are lab users supported in sustainability efforts?",
+          "Can labs participate in energy-saving programs?",
+          "What support is available for lab sustainability?",
+          "Do research labs get tools for saving energy?"
+        ]
+      },
+      {
+        "id": "11",
+        "answer": "Use the chatbot or visit the ‘Sustainability Protocols’ section in your dashboard to access documents such as the Net Zero Pathway, Travel Policy, Procurement Strategy, and the Biodiversity Plan.",
+        "questions": [
+          "Where can I find sustainability guides or policies?",
+          "How do I access the Net Zero strategy?",
+          "Where are campus environmental policies listed?",
+          "Where is the sustainability documentation stored?"
+        ]
+      },
+      {
+        "id": "12",
+        "answer": "The system contributes to real-time monitoring, usage transparency, and policy compliance tracking—essential components of the Net Zero 2040 strategy. Key building efficiency KPIs and emissions dashboards are available to admins.",
+        "questions": [
+          "How does the system align with university-wide Net Zero goals?",
+          "What role does the system play in achieving Net Zero?",
+          "Is the platform part of the Net Zero 2040 strategy?",
+          "How does this system support the university’s carbon goals?"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{"query": "Show me a chart of temperature levels in the Computing Lab and plot the CO2 levels for Seminar Room 1.", "ground_truth": "chart"}
+{"query": "Can I see a chart of the occupancy history for Lecture Theatre 2 and a visualization of the current temperature in Meeting Room 1?", "ground_truth": "chart"}
+{"query": "Generate a plot of the CO2 levels in the Sports Building and create a graph of energy usage in the Lecture Wing.", "ground_truth": "chart"}
+{"query": "I need a chart showing the energy cost breakdown for the Office Cluster and visualize the energy costs for the Athletic Complex.", "ground_truth": "chart"}
+{"query": "Show me a plot of the CO2 levels in the Engineering Building and give me a chart that represents the temperature data for the Study Corner.", "ground_truth": "chart"}
+{"query": "Can you generate a chart of the energy consumption for the Lecture Wing and a plot of the energy cost breakdown for the Athletic Complex?", "ground_truth": "chart"}
+{"query": "Provide a graphical representation of the energy usage for the Sports Building and show me a chart detailing the occupancy history of the Multi-Purpose Sports Hall.", "ground_truth": "chart"}
+{"query": "I need a chart that visualizes the CO2 levels in the Athletic Complex and plot the temperature data for the Office Cluster.", "ground_truth": "chart"}
+{"query": "Generate a chart showing the cost breakdown of energy in the Engineering Building and show me a chart of the temperature levels in the Sports Building.", "ground_truth": "chart"}
+{"query": "Plot the energy consumption of the Office Cluster and give me a visual of the energy costs for the Engineering Building.", "ground_truth": "chart"}
+{"query": "Can you provide a chart showing the CO2 levels in the Lecture Wing and a plot of user satisfaction with energy costs for the Athletic Complex?", "ground_truth": "chart"}
+{"query": "Provide a graphical representation of energy feedback for the Sports Building and show me a chart detailing user feedback on occupancy in the Multi-Purpose Sports Hall.", "ground_truth": "chart"}
+{"query": "I need a chart that visualizes energy feedback scores in the Athletic Complex and plot user feedback on temperature for the Office Cluster.", "ground_truth": "chart"}
+{"query": "Generate a chart showing the breakdown of energy feedback in the Engineering Building and show me a chart of user feedback on temperature levels in the Sports Building.", "ground_truth": "chart"}
+{"query": "Plot the energy feedback ratings for the Office Cluster and give me a chart of the CO2 levels in Seminar Room 1.", "ground_truth": "chart"}
+{"query": "Show me a graph of the occupancy history for the Study Corner and create a chart showing the energy cost breakdown for the Sports Building.", "ground_truth": "chart"}
+{"query": "Provide a plot of the energy costs for the Lecture Wing and a visualization of the temperature in the Lecture Theatre 2.", "ground_truth": "chart"}
+{"query": "Generate a chart of the CO2 levels in the Computing Lab and plot the energy consumption of the Sports Building.", "ground_truth": "chart"}
+{"query": "Show me a chart detailing the energy costs for the Athletic Complex and a graph of the occupancy history for Meeting Room 1.", "ground_truth": "chart"}
+{"query": "Provide a visualization of the temperature in the Multi-Purpose Sports Hall and generate a chart showing the energy cost breakdown for the Office Cluster.", "ground_truth": "chart"}
+{"query": "Plot the CO2 levels for the Multi-Purpose Sports Hall and show me a chart of the energy usage for the Office Cluster.", "ground_truth": "chart"}
+{"query": "I'd like to see a graph of the energy costs in the Engineering Building and a chart showing the CO2 levels in Meeting Room 1.", "ground_truth": "chart"}
+{"query": "Create a plot of the temperature data for Seminar Room 1 and give me a visualization of the energy consumption for the Athletic Complex.", "ground_truth": "chart"}
+{"query": "Show me a chart of the occupancy history in the Engineering Building and a chart that visualizes user feedback on energy by room.", "ground_truth": "chart"}
+{"query": "Can you generate a plot of user feedback on energy usage by category and a chart showing the breakdown of user feedback by individual user?", "ground_truth": "chart"}
+{"query": "Show me a chart of temperature levels in the Computing Lab and a chart of the CO2 levels in Seminar Room 1.", "ground_truth": "chart"}
+{"query": "Plot the energy consumption for the Office Cluster and visualize the energy costs for the Athletic Complex.", "ground_truth": "chart"}
+{"query": "Can I see a chart of the occupancy history for Lecture Theatre 2 and a chart of the temperature levels in the Sports Building?", "ground_truth": "chart"}
+{"query": "Generate a plot of the CO2 levels in the Sports Building and a chart showing the energy cost breakdown for the Office Cluster.", "ground_truth": "chart"}
+{"query": "Show me a chart of the energy usage for the Sports Building and a chart of user feedback on temperature levels in the Sports Building.", "ground_truth": "chart"}
+{"query": "I need a chart showing the energy cost breakdown for the Office Cluster and a chart of the CO2 levels in the Athletic Complex.", "ground_truth": "chart"}
+{"query": "Provide a graphical representation of the energy usage for the Sports Building and a chart showing the breakdown of energy feedback in the Engineering Building.", "ground_truth": "chart"}
+{"query": "Plot the energy feedback ratings for the Office Cluster and a chart of the occupancy history for Meeting Room 1.", "ground_truth": "chart"}
+{"query": "Show me a chart of the temperature levels in the Sports Building and a chart of the CO2 levels in the Engineering Building.", "ground_truth": "chart"}
+{"query": "Can you provide a chart showing the CO2 levels in the Lecture Wing and a chart of the energy usage for the Office Cluster?", "ground_truth": "chart"}
+{"query": "I'd like to see a plot of user satisfaction with energy costs for the Athletic Complex and a chart of the temperature data for Seminar Room 1.", "ground_truth": "chart"}
+{"query": "Provide a graphical representation of energy feedback for the Sports Building and a chart of the energy costs for the Engineering Building.", "ground_truth": "chart"}
+{"query": "I need a chart that visualizes energy feedback scores in the Athletic Complex and a chart of the CO2 levels in Seminar Room 1.", "ground_truth": "chart"}
+{"query": "Generate a chart showing the breakdown of energy feedback in the Engineering Building and a chart of the occupancy history in the Engineering Building.", "ground_truth": "chart"}
+{"query": "Plot the energy feedback ratings for the Office Cluster and a chart of the temperature levels in the Computing Lab.", "ground_truth": "chart"}
+{"query": "Show me a graph of the occupancy history for the Study Corner and a chart of the energy cost breakdown for the Athletic Complex.", "ground_truth": "chart"}
+{"query": "Provide a plot of the energy costs for the Lecture Wing and a chart of the CO2 levels in the Sports Building.", "ground_truth": "chart"}
+{"query": "Generate a chart of the CO2 levels in the Computing Lab and a chart of the energy usage for the Sports Building.", "ground_truth": "chart"}
+{"query": "Show me a chart detailing the energy costs for the Athletic Complex and a chart of user feedback on energy by room.", "ground_truth": "chart"}
+{"query": "Provide a visualization of the temperature in the Multi-Purpose Sports Hall and a chart of the occupancy history for Meeting Room 1.", "ground_truth": "chart"}
+{"query": "Plot the CO2 levels for the Multi-Purpose Sports Hall and a chart of the energy cost breakdown for the Office Cluster.", "ground_truth": "chart"}
+{"query": "I'd like to see a graph of the energy costs in the Engineering Building and a chart of the temperature data for Seminar Room 1.", "ground_truth": "chart"}
+{"query": "Create a plot of the temperature data for Seminar Room 1 and a chart of the CO2 levels in Meeting Room 1.", "ground_truth": "chart"}
+{"query": "Show me a chart of the occupancy history in the Engineering Building and a chart of the energy usage for the Office Cluster.", "ground_truth": "chart"}
+{"query": "Can you generate a plot of user feedback on energy usage by category and a chart of the energy costs for the Athletic Complex?", "ground_truth": "chart"}

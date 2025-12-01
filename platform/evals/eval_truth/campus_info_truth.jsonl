@@ -1,0 +1,50 @@
+{"query": "What buildings are available on campus?", "ground_truth": "available"}
+{"query": "List all rooms in the Engineering Building.", "ground_truth": "available"}
+{"query": "Which rooms are in the Sports Building?", "ground_truth": "available"}
+{"query": "What HVAC zones exist on campus?", "ground_truth": "available"}
+{"query": "Which HVAC zones belong to the Engineering Building?", "ground_truth": "available"}
+{"query": "What HVAC zones are in the Sports Building?", "ground_truth": "available"}
+{"query": "Which rooms are in the Lecture Wing HVAC zone?", "ground_truth": "available"}
+{"query": "Which rooms are located in the Office Cluster zone?", "ground_truth": "available"}
+{"query": "Which rooms are covered by the Athletic Complex zone?", "ground_truth": "available"}
+{"query": "What HVAC zone is Lecture Theatre 1 in?", "ground_truth": "available"}
+{"query": "What HVAC zone does Lecture Theatre 2 belong to?", "ground_truth": "available"}
+{"query": "What HVAC zone is the Computing Lab in?", "ground_truth": "available"}
+{"query": "What HVAC zone covers Seminar Room 1?", "ground_truth": "available"}
+{"query": "Which HVAC zone is Meeting Room 1 in?", "ground_truth": "available"}
+{"query": "What HVAC zone does the Study Corner belong to?", "ground_truth": "available"}
+{"query": "Which HVAC zone is the Multi-Purpose Sports Hall in?", "ground_truth": "available"}
+{"query": "Tell me my access level.", "ground_truth": "available"}
+{"query": "What is my user role?", "ground_truth": "available"}
+{"query": "List all of my past energy feedbacks.", "ground_truth": "available"}
+{"query": "Show me my most recent energy feedback.", "ground_truth": "available"}
+{"query": "How many energy feedbacks have I submitted?", "ground_truth": "available"}
+{"query": "Which of my feedback entries is the earliest?", "ground_truth": "available"}
+{"query": "Show me the rooms in Lecture Wing.", "ground_truth": "available"}
+{"query": "List all rooms covered by the Office Cluster zone.", "ground_truth": "available"}
+{"query": "Which HVAC zone covers lecture theatres?", "ground_truth": "available"}
+{"query": "Which rooms in the Engineering Building are lecture theatres?", "ground_truth": "available"}
+{"query": "Does the Engineering Building have a Computing Lab?", "ground_truth": "available"}
+{"query": "Does the Sports Building have lecture theatres?", "ground_truth": "available"}
+{"query": "Which building contains Meeting Room 1?", "ground_truth": "available"}
+{"query": "Which building has the Multi-Purpose Sports Hall?", "ground_truth": "available"}
+{"query": "What are the rooms in the Engineering Building?", "ground_truth": "available"}
+{"query": "What rooms exist in the Sports Building?", "ground_truth": "available"}
+{"query": "What HVAC zones exist in Engineering?", "ground_truth": "available"}
+{"query": "What HVAC zone manages the Sports Hall?", "ground_truth": "available"}
+{"query": "Which rooms belong to Athletic Complex?", "ground_truth": "available"}
+{"query": "Tell me all lecture theatres in Engineering.", "ground_truth": "available"}
+{"query": "List all study spaces in the Engineering Building.", "ground_truth": "available"}
+{"query": "Which building contains Seminar Room 1?", "ground_truth": "available"}
+{"query": "Which building has office spaces?", "ground_truth": "available"}
+{"query": "Which rooms are included in the Office Cluster?", "ground_truth": "available"}
+{"query": "List all HVAC zones across campus.", "ground_truth": "available"}
+{"query": "Which HVAC zone is Seminar Room 1 assigned to?", "ground_truth": "available"}
+{"query": "What is my system role?", "ground_truth": "available"}
+{"query": "What permissions does my role have?", "ground_truth": "available"}
+{"query": "Does my access level allow me to see HVAC data?", "ground_truth": "available"}
+{"query": "Show me all of my energy feedbacks from this semester.", "ground_truth": "available"}
+{"query": "Which room is part of the Lecture Wing zone?", "ground_truth": "available"}
+{"query": "Which HVAC zone covers Meeting Room 1?", "ground_truth": "available"}
+{"query": "What HVAC zone is the Study Corner part of?", "ground_truth": "available"}
+{"query": "Which rooms are in the Engineering Building’s Office Cluster zone?", "ground_truth": "available"}

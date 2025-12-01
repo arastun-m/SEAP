@@ -1,0 +1,301 @@
+database: campus
+description: full schema for the campus management system
+schema_version: 1.1
+
+containers:
+  # System-related data
+  - name: users
+    description: user profiles
+    partition_key: /id
+    mock_data: users.json
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        first_name: { type: string }
+        last_name: { type: string }
+        email: { type: string }
+        password: { type: string }
+        department: { type: string }
+        calendar: { type: array, items: { type: string } }
+        assigned_rooms: { type: array, items: { type: string } }
+        role:
+          type: string
+          enum: ["Student", "Staff", "Admin"]
+
+  - name: chat
+    description: chat history logs (long-term agent state)
+    partition_key: /user_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        user_id: { type: string }
+        timestamp: { type: string, format: date-time }
+        messages: { type: array, items: { type: string } }
+
+  # Building and room structure
+  - name: buildings
+    description: campus building metadata
+    partition_key: /id
+    mock_data: buildings.json
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        building_name: { type: string }
+        address: { type: string }
+        building_type:
+          type: string
+          enum: ["Academic", "Residental", "Administrative"]
+
+  - name: hvac-zone
+    description: HVAC zone metadata (belongs to a building)
+    partition_key: /id
+    mock_data: hvac_zones.json
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        building_id: { type: string }
+        zone_name: { type: string }
+        zone_type: { type: string }
+        hvac_unit_id: { type: string }
+
+  - name: rooms
+    description: room metadata (belongs to a zone)
+    partition_key: /building_id
+    mock_data: rooms.json
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        building_id: { type: string }
+        zone_id: { type: string }
+        room_name: { type: string }
+        room_type:
+          type: string
+          enum: ["Lecture", "Lab", "Office", "Common"]
+        status: { type: boolean }
+        area_m2: { type: number }
+        capacity: { type: integer }
+        equipment: { type: array, items: { type: string } }
+
+  # Energy system schema
+  - name: energy-usage
+    description: energy usage logs (belongs to a zone)
+    partition_key: /zone_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        zone_id: { type: string }
+        timestamp: { type: string, format: date-time }
+        total_energy_kwh: { type: number }
+        hvac_energy_kwh: { type: number }
+        lighting_energy_kwh: { type: number }
+
+  - name: sensor-reading
+    description: sensor readings (belongs to a room)
+    partition_key: /room_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        room_id: { type: string }
+        timestamp: { type: string, format: date-time }
+        sensor_type:
+          type: string
+          enum: ["Temperature", "Humidity", "Co2", "Light", "Occupancy", "Power", "Noise"]
+        value: { type: number }
+
+  - name: room-status
+    description: real-time room status (belongs to a room)
+    partition_key: /room_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        room_id: { type: string }
+        current_temperature: { type: number }
+        current_humidity: { type: number }
+        current_co2: { type: number }
+        current_light: { type: number }
+        occupants: { type: integer }
+        desired_temperature: { type: number }
+        last_updated: { type: string, format: date-time }
+        last_entry: { type: string, format: date-time }
+      description: Derived from latest SensorReadings and user preferences.
+
+  - name: hvac-action
+    description: HVAC control actions (belongs to a zone)
+    partition_key: /zone_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        zone_id: { type: string }
+        timestamp: { type: string, format: date-time }
+        setpoint_temperature: { type: number }
+        ventilation_mode: { type: string }
+        co2_control_enabled: { type: boolean }
+        reason: { type: string }
+        agent_id: { type: string }
+
+  - name: light-action
+    description: light control actions (belongs to a room)
+    partition_key: /room_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        room_id: { type: string }
+        timestamp: { type: string, format: date-time }
+        status: { type: boolean }
+        brightness: { type: number }
+        reason: { type: string }
+        agent_id: { type: string }
+
+  - name: agents
+    description: agent profiles (system actors)
+    partition_key: /id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        agent_type: { type: string }
+        assigned_zone_id: { type: string }
+        description: { type: string }
+
+  # Maintenance schema
+  - name: assets
+    description: physical assets assigned to rooms
+    partition_key: /id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        room_id: { type: string }
+        asset_type:
+          type: string
+          enum: ["Heating", "Ventilation", "AirConditioning", "Lights", "Projector"]
+        model: { type: string }
+        serial_no: { type: string }
+        life_expectance_days: { type: integer }
+        last_maint_date: { type: string, format: date-time }
+        status: { type: boolean }
+
+  - name: work-orders
+    description: maintenance work orders
+    partition_key: /id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        room_id: { type: string }
+        asset_id: { type: string }
+        assigned_staff_id: { type: string }
+        raised_by: { type: string }
+        priority:
+          type: string
+          enum: ["Low", "Med", "High"]
+        status:
+          type: string
+          enum: ["Open", "Assigned", "InProgress", "Done"]
+        created_at: { type: string, format: date-time }
+        assigned_at: { type: string, format: date-time }
+        closed_at: { type: string, format: date-time }
+
+  - name: maintenance-schedule
+    description: periodic maintenance schedule
+    partition_key: /id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        asset_id: { type: string }
+        task_type:
+          type: string
+          enum: ["Inspect", "Repair", "Replace"]
+        due_date: { type: string, format: date-time }
+        status:
+          type: string
+          enum: ["Planned", "Completed", "Skipped"]
+        auto_generated: { type: boolean }
+
+  # Security schema
+  - name: user-access-logs
+    description: logs of user entries and exits
+    partition_key: /user_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        user_id: { type: string }
+        room_id: { type: string }
+        entry_time: { type: string, format: date-time }
+        exit_time: { type: string, format: date-time }
+        entry_method: { type: string }
+        verified_status: { type: boolean }
+
+  - name: surveillance-data
+    description: surveillance camera analytics
+    partition_key: /room_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        room_id: { type: string }
+        camera_id: { type: string }
+        timestamp: { type: string, format: date-time }
+        motion_detected: { type: boolean }
+        person_count: { type: integer }
+        anomalous_behavior_flags: { type: string }
+
+  - name: alerts
+    description: triggered alerts for abnormal conditions
+    partition_key: /room_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        room_id: { type: string }
+        assigned_agent: { type: string }
+        trigger_time: { type: string, format: date-time }
+        alert_type:
+          type: string
+          enum: ["LowPriority", "HighPriority"]
+        resolved_status:
+          type: string
+          enum: ["Open", "Ongoing", "Resolved"]
+
+  - name: event-sensor
+    description: correlation of sensor events with users and assets
+    partition_key: /event_id
+    mock_data: null
+    item_schema:
+      type: object
+      properties:
+        id: { type: string }
+        user_id: { type: string }
+        event_id: { type: string }
+        asset_id: { type: string }
+        location: { type: string }
+        timestamp: { type: string, format: date-time }
+        confidence_score: { type: integer }
+        status:
+          type: string
+          enum: ["Open", "Ongoing", "Resolved"]
+        action_triggered: { type: boolean }

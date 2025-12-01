@@ -1,0 +1,145 @@
+{"query": "What buildings are on campus?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.8429591655731201}
+{"query": "What academic buildings exist on campus?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.13502097129821777}
+{"query": "What HVAC zones are available on campus?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.37789297103881836}
+{"query": "Which rooms are located in Office Cluster HVAC zone?", "context": "", "response": "Analysis", "ground_truth": "Info", "answer_length": 8, "latency": 0.3773179054260254}
+{"query": "List all rooms in the Engineering Building.", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.15039610862731934}
+{"query": "What is the HVAC zone for the Lecture Theatre 1", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.11917495727539062}
+{"query": "Can you tell me my access level?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.17316293716430664}
+{"query": "What is my user role?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.1722252368927002}
+{"query": "Give me a list of all registered users.", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.13591599464416504}
+{"query": "What are the roles and permissions of users?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.1291661262512207}
+{"query": "Can you show me the access levels of all users?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.15233993530273438}
+{"query": "Which HVAC zones exist in the system?", "context": "", "response": "Analysis", "ground_truth": "Info", "answer_length": 8, "latency": 0.3308718204498291}
+{"query": "What buildings are available in the campus?", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.11114215850830078}
+{"query": "List all rooms in the campus.", "context": "", "response": "Info", "ground_truth": "Info", "answer_length": 4, "latency": 0.16106510162353516}
+{"query": "The lighting in Lecture Theatre 2 is very dim during late afternoons.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.15735292434692383}
+{"query": "You should shut down the AC in the Study Corner after 7 PM.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.19096779823303223}
+{"query": "The temperature in Meeting Room 1 fluctuates a lot during the afternoon.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.15244793891906738}
+{"query": "The air in the Chemistry Lab feels really stuffy during the afternoon sessions.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12160611152648926}
+{"query": "There\u2019s not enough natural light in the Intel Lab.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1414508819580078}
+{"query": "The AC in the Math Department seems to stay on all night.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13376307487487793}
+{"query": "Please lower the brightness in the Library\u2019s reading area.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.16004204750061035}
+{"query": "It's always humid and musty in the Physics Building basement.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.14982080459594727}
+{"query": "Too hot.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1386868953704834}
+{"query": "Lets save energy.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12494277954101562}
+{"query": "It's too bright.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12241482734680176}
+{"query": "Can you make the building cooler?", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12720990180969238}
+{"query": "There\u2019s something off with the air in the seminar room.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13902878761291504}
+{"query": "Fix the climate.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.14408087730407715}
+{"query": "Shut down all HVAC systems during weekends.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1382761001586914}
+{"query": "All lecture halls should have 10\u00b0C in the morning.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.16390776634216309}
+{"query": "Disable ventilation in all labs after 6 PM.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.14531993865966797}
+{"query": "Set the room to 50\u00b0C.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1571941375732422}
+{"query": "Set all rooms to 15\u00b0C to save energy.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.15587687492370605}
+{"query": "Turn off all HVACs.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.10985493659973145}
+{"query": "The lighting in Lecture Theatre 2 gets too dark in the afternoons.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1302928924560547}
+{"query": "Try switching off the AC in Study Corner after 7 PM to save energy.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1468510627746582}
+{"query": "Meeting Room 1 temperature is very inconsistent during afternoons.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13299298286437988}
+{"query": "Air quality in the Chemistry Lab feels poor during afternoon classes.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13465595245361328}
+{"query": "Intel Lab doesn\u2019t get enough daylight.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13552093505859375}
+{"query": "The AC in the Math Department keeps running all through the night.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1762070655822754}
+{"query": "Reduce the brightness in the Library\u2019s reading area, it\u2019s too harsh.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.15348410606384277}
+{"query": "Physics Building basement always feels damp and humid.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.153364896774292}
+{"query": "The room feels way too hot.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12842702865600586}
+{"query": "We should focus more on saving energy.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1174321174621582}
+{"query": "This space is overly bright.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1350538730621338}
+{"query": "Please make the building temperature cooler.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.16279911994934082}
+{"query": "The seminar room\u2019s air feels heavy and uncomfortable.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13986897468566895}
+{"query": "The climate control system doesn\u2019t feel right.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12897992134094238}
+{"query": "All HVAC systems should be turned off on weekends.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.18727397918701172}
+{"query": "Set lecture halls to 10\u00b0C in the mornings.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13590383529663086}
+{"query": "Turn off ventilation in labs after 6 PM.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.11858415603637695}
+{"query": "The room temperature should be raised to 50\u00b0C.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.14202499389648438}
+{"query": "Adjust all rooms to 15\u00b0C to conserve energy.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.140733003616333}
+{"query": "It gets really cold in the Library during evenings.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1259760856628418}
+{"query": "The AC is too strong in Lecture Theatre 3.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13224196434020996}
+{"query": "Can we have better airflow in the Computer Lab?", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12315511703491211}
+{"query": "The lights in the hallway are left on all night unnecessarily.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.15372419357299805}
+{"query": "It\u2019s too noisy when the ventilation is on in the classrooms.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13317394256591797}
+{"query": "The heating system makes the offices too warm in the mornings.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1263580322265625}
+{"query": "Please dim the lights in the cafeteria during lunch hours.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.1490952968597412}
+{"query": "The auditorium feels very cold during events.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.12216401100158691}
+{"query": "Can the air conditioning be turned down in the Biology Lab?", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.14382219314575195}
+{"query": "The ventilation in Meeting Room 2 is too strong.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13359999656677246}
+{"query": "Hallways are too dark after 8 PM, increase the lighting.", "context": "", "response": "Feedback", "ground_truth": "Feedback", "answer_length": 8, "latency": 0.13004016876220703}
+{"query": "What is the occupancy status for room Lecture Theatre 1?", "context": "", "response": "Chart", "ground_truth": "Analysis", "answer_length": 5, "latency": 0.1428070068359375}
+{"query": "Which rooms in the Engineering Building are currently occupied?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.14596199989318848}
+{"query": "What were the occupancy levels in room Computing Lab on August 15th 2am?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.12181973457336426}
+{"query": "What is the total energy consumption of the HVAC zone Lecture Wing?", "context": "", "response": "Chart", "ground_truth": "Analysis", "answer_length": 5, "latency": 0.1361546516418457}
+{"query": "What is the current energy usage in the campus buildings?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.1588912010192871}
+{"query": "Which rooms in the Engineering Building have the highest energy usage?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.14974594116210938}
+{"query": "What is the current temperature in Lecture Theatre 2?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.11795902252197266}
+{"query": "Can you tell me the CO2 levels in Computing Lab right now?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.1144568920135498}
+{"query": "Which rooms in the Library Building have the highest CO2 levels?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.11502790451049805}
+{"query": "What is the occupancy status for Seminar Room 3?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.14786267280578613}
+{"query": "Which classrooms in the Lecture Wing are currently unoccupied?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.11464619636535645}
+{"query": "What is the average temperature in the Engineering Building rooms?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.1354048252105713}
+{"query": "What is the total energy cost of the HVAC zone Dormitory Block A?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.15551996231079102}
+{"query": "Which HVAC zone has the highest energy consumption today?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.1422100067138672}
+{"query": "What is the breakdown of energy costs for the Lecture Wing HVAC zone?", "context": "", "response": "Chart", "ground_truth": "Analysis", "answer_length": 5, "latency": 0.14295196533203125}
+{"query": "How much energy was used by the Sports Complex HVAC zone last week?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.13535523414611816}
+{"query": "Which HVAC zones have the lowest energy efficiency?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.11263322830200195}
+{"query": "What is the current energy usage split across all HVAC zones?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.11975407600402832}
+{"query": "Can you identify which rooms in Dormitory Block B are occupied right now?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.15385079383850098}
+{"query": "What is the CO2 concentration trend in Lecture Theatre 5 this afternoon?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.12840509414672852}
+{"query": "What is the highest recorded energy usage in the Administration HVAC zone today?", "context": "", "response": "Analysis", "ground_truth": "Analysis", "answer_length": 8, "latency": 0.14797377586364746}
+{"query": "Can you give me chart of occupancy history in the room Lecture Theatre 1?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.17327499389648438}
+{"query": "Can you give me a chart of temperature levels in Lecture Wing zone?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.11819696426391602}
+{"query": "Give me chart that shows C02 levels in Engineering Building?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.11927103996276855}
+{"query": "Can you provide me a chart of energy consumption in Lecture Wing zone?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.17236900329589844}
+{"query": "Can you provide me a chart of energy cost breakdown in Lecture Wing zone?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.12771010398864746}
+{"query": "Can you provide me a chart of energy costs in Engineering building?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.13679814338684082}
+{"query": "Can you provide me a chart of energy cost breakdown in Engineering building?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.14789223670959473}
+{"query": "Can you provide me a chart of energy feedback breakdown by room?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.2662200927734375}
+{"query": "Can you provide me a chart of energy feedback breakdown by category?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.11470890045166016}
+{"query": "Can you provide me a chart of energy feedback breakdown by users?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.17536306381225586}
+{"query": "Can you generate a chart showing the occupancy history for Lecture Theatre 1?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19755077362060547}
+{"query": "Show me a chart of temperature levels in the Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1324937343597412}
+{"query": "Please provide a chart that displays CO2 levels in the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1954820156097412}
+{"query": "Give me a visual chart of energy consumption in the Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19687509536743164}
+{"query": "I\u2019d like a chart showing the breakdown of energy costs for the Lecture Wing HVAC zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1589970588684082}
+{"query": "Can you create a chart of total energy costs in the Engineering Building?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.17263197898864746}
+{"query": "Show me a visual chart of the energy cost breakdown for the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1927781105041504}
+{"query": "Provide me with a chart of energy feedback broken down by room.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.13501596450805664}
+{"query": "Could you generate a chart of energy feedback grouped by category?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19286227226257324}
+{"query": "Give me a chart that illustrates energy feedback breakdown by users.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19578099250793457}
+{"query": "Show me a graph of the occupancy history for Lecture Theatre 1.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.12105011940002441}
+{"query": "Can you plot the temperature levels in the Lecture Wing zone?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.2079298496246338}
+{"query": "Please create a graph of CO2 levels in the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.195753812789917}
+{"query": "I\u2019d like a visualization of energy consumption in the Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.12259101867675781}
+{"query": "Could you provide me a diagram that shows the breakdown of energy costs in Lecture Wing HVAC zone?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.20496010780334473}
+{"query": "Give me a graph of the total energy costs in the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19741296768188477}
+{"query": "Please plot the energy cost breakdown for the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1268627643585205}
+{"query": "Show me a visualization of energy feedback data by room.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.20289206504821777}
+{"query": "Can you provide a graph of energy feedback separated by category?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19190597534179688}
+{"query": "Generate a diagram that illustrates energy feedback breakdown by users.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.13484787940979004}
+{"query": "Could you plot a chart of occupancy history in Lecture Theatre 1?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19728899002075195}
+{"query": "Show me a visualization of temperature levels across the Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19486188888549805}
+{"query": "Please display a graph of CO2 concentration in the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.12732291221618652}
+{"query": "Generate a visualization of energy consumption trends in Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1992199420928955}
+{"query": "Give me a diagram that shows the breakdown of energy costs in Lecture Wing.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1981980800628662}
+{"query": "Provide me a graph of total energy costs in the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1547999382019043}
+{"query": "Can you create a visualization that details the energy cost breakdown in Engineering Building?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.17121195793151855}
+{"query": "I\u2019d like to see a chart of energy feedback split by room.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19857382774353027}
+{"query": "Can you generate a graph that categorizes energy feedback by type?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.15043902397155762}
+{"query": "Show me a diagram illustrating energy feedback distribution by users.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1755352020263672}
+{"query": "Please provide a chart that visualizes the occupancy history of Lecture Theatre 1.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.198134183883667}
+{"query": "Plot the temperature variations in Lecture Wing zone for me.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1180272102355957}
+{"query": "I want to see a visualization of CO2 readings in the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.20817995071411133}
+{"query": "Could you give me a graph representing energy usage in the Lecture Wing zone?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1973590850830078}
+{"query": "Provide a diagram that breaks down the energy costs in Lecture Wing HVAC systems.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.1321711540222168}
+{"query": "Show me a plot of the overall energy costs in Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19576311111450195}
+{"query": "Create a chart displaying the energy cost breakdown for Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19744086265563965}
+{"query": "Give me a visualization that shows energy feedback distribution by rooms.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.12032365798950195}
+{"query": "Could you make a graph that separates energy feedback by category?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.2030940055847168}
+{"query": "I\u2019d like a diagram showing the breakdown of energy feedback by users.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.2000870704650879}
+{"query": "Can you generate a visualization of occupancy history for Lecture Theatre 1?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.15001606941223145}
+{"query": "Please display a chart of temperature changes in the Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.17467594146728516}
+{"query": "Show me a diagram that tracks CO2 levels inside the Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19674229621887207}
+{"query": "I want a chart of energy consumption patterns in Lecture Wing zone.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.11843705177307129}
+{"query": "Could you give me a graph illustrating energy cost breakdown in Lecture Wing?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.21643590927124023}
+{"query": "Generate a visualization of total energy costs for Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19029712677001953}
+{"query": "Please provide me a chart showing the breakdown of energy costs in Engineering Building.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.12331700325012207}
+{"query": "Show me a graph visualizing energy feedback categorized by room.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.20548510551452637}
+{"query": "Create a diagram of energy feedback grouped by categories.", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.19698596000671387}
+{"query": "Could you plot a chart that displays energy feedback separated by users?", "context": "", "response": "Chart", "ground_truth": "Chart", "answer_length": 5, "latency": 0.13366985321044922}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "feedback_001",
+        "user_id": "user_001",
+        "room_id": "LT1",
+        "feedback": "The room temperature is too high.",
+        "category": "Temperature",
+        "timestamp": "2025-08-01T12:00:00Z"
+    },
+    {
+        "id": "feedback_002",
+        "user_id": "user_003",
+        "room_id": "FW26",
+        "feedback": "The lighting in Computing Lab is very dim during late afternoons",
+        "category": "Lighting",
+        "timestamp": "2025-08-03T12:00:00Z"
+    },
+    {
+        "id": "feedback_003",
+        "user_id": "user_006",
+        "room_id": "FW26",
+        "feedback": "Lets save energy by using less plastic cups in the Study Corner",
+        "category": "Suggestion",
+        "timestamp": "2025-08-02T12:00:00Z"
+    }
+]

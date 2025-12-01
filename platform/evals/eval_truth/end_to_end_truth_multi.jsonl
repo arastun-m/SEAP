@@ -1,0 +1,12 @@
+{"query": "What buildings are available on campus? Also, list all rooms in the Engineering Building.", "user_id": "user_001", "user_role": "Student", "ground_truth": ["CampusInfo", "CampusInfo"]}
+{"query": "Which HVAC zone is Meeting Room 1 in? And what rooms are in the Engineering Building?", "user_id": "user_001", "user_role": "Student", "ground_truth": ["CampusInfo", "CampusInfo"]}
+{"query": "List all registered users. Then, show me a chart of temperature levels in the Computing Lab.", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["AdminInfo", "ChartPlotter"]}
+{"query": "How many people are currently in Computing Lab? Also, plot the energy consumption of the Office Cluster.", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["AdminInfo", "ChartPlotter"]}
+{"query": "Show me a chart of the CO2 levels in the Sports Building. Then, list all rooms in the Engineering Building.", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["ChartPlotter", "AdminInfo"]}
+{"query": "The AC in Lecture Theatre 1 is too cold in the morning. Also, set all rooms to 15°C to save energy.", "user_id": "user_002", "user_role": "Student", "ground_truth": ["Feedback", "Feedback"]}
+{"query": "Temperature fluctuates in the Electronics Lab. Can you tell me which HVAC zone it is in?", "user_id": "user_002", "user_role": "Student", "ground_truth": ["Feedback", "CampusInfo"]}
+{"query": "List all registered users. Also, what buildings are available on campus?", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["AdminInfo", "CampusInfo"]}
+{"query": "Show me a chart of temperature levels in the Computing Lab. Also, temperature fluctuates in the Electronics Lab.", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["ChartPlotter", "Feedback"]}
+{"query": "Plot the energy consumption of the Office Cluster. Then, set all rooms to 15°C to save energy.", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["ChartPlotter", "Feedback"]}
+{"query": "What rooms are in the Engineering Building? Also, the AC in Lecture Theatre 1 is too cold in the morning.", "user_id": "user_014", "user_role": "Admin", "ground_truth": ["AdminInfo", "Feedback"]}
+{"query": "Which HVAC zone is Meeting Room 1 in? Also, show me a chart of the CO2 levels in the Sports Building.", "user_id": "user_001", "user_role": "Student", "ground_truth": ["CampusInfo", "ChartPlotter"]}

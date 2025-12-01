@@ -12,21 +12,31 @@ A master's research project (Imperial College London x Microsoft), developed as 
   ![Static Badge](https://img.shields.io/badge/Azure%20AI%20Foundry-0055A4?logo=microsoftazure&logoColor=white)
 </div>
 
-
 <p align="center">
-  <img src="assets/images/agent-overview.png" width="600"></a>
-  <em>
-    High-level agent overview and an example ReAct (Reason + Act) style trajectory
-    instruction. The base agent is comprised of a base model (an LLM), system instructions, and
-    Semantic Kernel tool plugins. The ReAct trajectory steps are; Thought (Reasoning), Action
-    (Tool Call), and Observation (Environment Response).
-  </em>
+  <img src="assets/images/agent-overview.png" width="600">
+
+  <br>
+
+  <span style="text-align:center;">
+    <em>
+      High-level agent overview and an example ReAct (Reason + Act) style trajectory instruction.
+      The base agent is comprised of a base model (an LLM), system instructions, and Semantic Kernel tool plugins.
+      The ReAct trajectory steps are: Thought (Reasoning), Action (Tool Call), and Observation (Environment Response).
+    </em>
+  </span>
+</p>
 
 <p align="center">
   <img src="assets/images/evaluation-results.png" width="600"></a>
-  <em>
-    Aggregated agentic performance scores for each agent and method. <b> Our key findings: (a) GPT-4o is the best performing base model for specialised agents; (b) Varying prompt strategies does not have significant influence on agent performance score, but on the response length; (c) IR agents (CampusInfo, AdminInfo) consistently outperform action-based (Feedback, ChartPlotter) agents. </b>
-  </em>
+
+  <br>
+
+  <span style="text-align:center;">
+    <em>
+      Aggregated agentic performance scores for each agent and method. <b> Our key findings: (a) GPT-4o is the best performing base model for specialised agents; (b) Varying prompt           strategies does not have significant influence on agent performance score, but on the response length; (c) IR agents (CampusInfo, AdminInfo) consistently outperform action-based        (Feedback, ChartPlotter) agents. </b>
+    </em>
+  </span>
+</p>
 
 
 ## Overview
